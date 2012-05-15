@@ -1,6 +1,6 @@
 {
   "name": "package-bootstrap",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "dependencies": {
     "package-jquery-ui": "git://github.com/maccman/package-jquery-ui.git"
   }
